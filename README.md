@@ -1,12 +1,16 @@
 # 🌷 LIORA — Flower E-commerce Website
 
-LIORA is a full PHP and MySQL-based online flower shop project created as a university web development and database project. The website includes a complete shopping experience with product browsing, cart management, user accounts, checkout, reviews, and admin-related features.
+<p align="center">
+  <img src="Liora.png" alt="LIORA home page preview" width="1000" />
+</p>
+
+LIORA is a full PHP and MySQL-based online flower shop project created as a university web development and database project. The website includes a complete shopping experience with product browsing, [...]
 
 ---
 
 ## ✨ Project Overview
 
-This project was developed to demonstrate a practical e-commerce system with a database-driven backend. It combines front-end web pages with server-side PHP logic and MySQL storage to support real online shopping functionality.
+This project was developed to demonstrate a practical e-commerce system with a database-driven backend. It combines front-end web pages with server-side PHP logic and MySQL storage to support real onl[...]
 
 ---
 
